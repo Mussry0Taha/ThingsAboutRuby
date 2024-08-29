@@ -1,0 +1,16 @@
+#summary-section {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f0f8ff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#summary-section h2 {
+    color: #ff69b4;
+}
+
+#summary-text {
+    font-size: 16px;
+    color: #333;
+}
